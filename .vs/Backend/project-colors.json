@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "4f580559-2f29-45ef-90e6-6d9ffa26ea76": {
+      "ProjectGuid": "4f580559-2f29-45ef-90e6-6d9ffa26ea76",
+      "DisplayName": "Backend",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
